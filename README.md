@@ -128,4 +128,4 @@ This project is released under the BSD 3-Clause License. See [LICENSE](LICENSE) 
 
 ## Acknowledgments
 
-Apart from the advisor and collaborators acknowledged elsewhere, the first author (Jiayu Xiong) would like to thank his grandma Xiaomao Wang (王小毛) and his advisor Jing Wang.
+Apart from the advisor and collaborators acknowledged elsewhere, the first author (Jiayu Xiong) would like to thank his grandma Xiaomao Wang (王小毛) and his elder sister Xin Tang (唐欣).
