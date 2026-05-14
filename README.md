@@ -69,6 +69,7 @@ python train_star_mae_dlr.py \
 ```
 
 You can also bypass `--dataset-root` and provide `--csv`, `--npz-root` or `--wav-root`, and `--label-csv` explicitly.
+Please refer [AudioRWKV](https://github.com/Jiayu-Xiong/AudioRWKV)
 
 ## 🧩 Weights
 
